@@ -1,0 +1,49 @@
+1. asagidaki fiquru ekrana cap edin
+       *
+      * *
+     * * *
+    * * * *
+
+
+2) 3 eded verilir, en boyuyu ile en kiciynin cemini ekrana cap edin
+
+3) 1- 7 araligi reqem verilir, heftenin hansi gunu oldugunu ekrana cap edin
+
+4) Yas ve ceki verilir, bu insanin qan verib vere bilmeyeceyini ekrana cap edin(qeyd: qan vere bilmek üçün minimum yas 18, minimum ceki 50 olmalidir)
+
+5) 1- 100 arasi butun sade ededlerin hasili ile cemnin ferqini tapin
+
+6.Bir ədədin digərinin quvvetine qaldırılan qiymətini tapan proqram yazın.
+(meselen a=2,b=3 -> 2nin 3 quvveti (2*2*2) =8)	
+
+7.Istenilen ededin reqemlerini tersini ekrana cap eden metod yazin
+(meselen 12345678 daxil edilir, 87654321 ekrana cap edilir,765 daxil edilir, 567 ekrana cap edilir)
+
+8. 2 eded verilir, bunlarin EBOB ve EKOB larnin cemini tapin
+
+9. Əgər ədədin hər bir rəqəminin kublarının cəmi ədədin özünə bərabərdirsə,
+ o zaman ədəd Armstronq eded adlanır. verilen ededin Armstronq eded olub olmadigini tapin
+meselen : 153 armstronq ededdir cunki 153 = ( 1 * 1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 )
+
+10. Eded verilir, bu ededin sayi qeder Fibonacci reqemlerini ekrana cap edin
+(meselen daxil edilen eded 5, ekrana cap edilen fibonacci reqemleri : 0 1 1 2 3)
+
+11. 10 100 arasinda 10 10 artan ededleri ekrana cap edin. meselen 10 20 30 40 ...
+
+12. asagidaki fiquru ekrana cap edin
+* * * *  *
+*           *
+*           *
+*           *
+*           *
+* * * *  *
+13. Array ve tek eded verilir, ededin bu arrayin daxilinde olub olmadigini yoxlayan metod yazin
+meselen: array={2,45,3,78,90,12,-5,0,33} , eded=12 netice: 12 arrayin daxilinde var
+
+14. Array verilir, bu arrayin daxilindeki musbet  ededleri ekrana cap edin.
+
+15. Array verilir, bu arrayin daxilindeki musbet  ededlerin cemini ekrana cap edin.
+
+16. Insana aid People class yaradin ve insana mexsus olan mumkun xususiyyetleri property kimi elave edin Meselen name surname age profession etc SOnra bu classin getter ve seter de daxil edin
+
+16) Reference bookdan chapter 6dan 12sehife ve 142-154 arasi

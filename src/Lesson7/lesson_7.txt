@@ -1,0 +1,84 @@
+1) Create Room class and write some properties for example length, width etc and getter/setter(Room adli klass yaradin ve onun bir nece property-sni yazin meselen uzunluq eni ve s)
+1.1 Create getArea method and calculate room's area 
+1.2 Create 2 objects of Room class and assign value of properties in Main class. and call getArea method on each object
+
+2)  Creating an 'Employee' class having some properties for example name,surname, salary etc
+and the following methods 
+1 - 'getInfo()' which takes the salary, number of hours of work per day of employee as parameter
+2 - 'AddSal()' which adds $10 to salary of the employee if it is less than $500.
+3 - 'AddWork()' which adds $5 to salary of employee if the number of hours of work per day is more than 6 hours.
+
+3) Write a Java method to compute the future investment value at a given interest rate for a specified number of years. Go to the editor
+Sample data (Monthly compounded) and Output:
+Input the investment amount: 1000
+Input the rate of interest: 10
+Input number of years: 5
+
+Expected Output:
+
+Years    FutureValue                                     
+1            1104.71                                     
+2            1220.39                                     
+3            1348.18                                     
+4            1489.35                                     
+5            1645.31
+
+4)  Write a Java method to display the current date and time
+
+5) Write a Java method to find all twin prime(sade) numbers less than 100
+Expected Output:
+
+(3, 5)                           _____  _____                        
+(5, 7)                          /     \/     \                  
+(11, 13)                        |            | 
+             			|            |  
+(17, 19)                         \          /                    
+(29, 31)                          \        /                     
+(41, 43)                           \      /                      
+(59, 61)                            \    /
+				     \  /
+                                      \/	
+					
+
+
+             DSFAJLKASDJK,M.CXVLJK        
+(71, 73) .mk.dskjgzsdko;gsd';
+supikjlsgrdkl'puihjzsfdkl;puiohkjzdsgf/kl;vzcxikjlfzdsio
+hjkdasyiul	r;qNIOA BLKJNLSAGKHJAERKJLASL;DKFGBH,JJHKFDASULHYAWERJHDAFS,NBMJHK.,DHJSFA,BNMXZVC.HJ
+6)  Write a Java program to remove a specific element from an array.
+For example {24,75,89,63,14} remove 63 then get {24,75,89,14}
+
+7)Find second max number of array
+array={2,45,3,78,90,12,-5,0,33} second max number=78
+
+8)Find second min number of array
+array={2,45,3,78,90,12,-5,0,33} second min number=0
+
+9) Write revers array method
+meselen: {1,2,3,4,5} in tersi {5,4,3,2,1}
+
+10) Compare arrays are equal or different
+meselen: {1,2,3,5,6} ve {1,2,3,5,6} they are equal
+{1,2,3,5,6} ve {1,2,3,15,6} they are different
+{1,2,3,5,6} ve {6,2,3,5,1}   they are different
+
+11) Write sort method of array
+meselen {5,2,6,1,3}  netice : {1,2,3,5,6}
+
+12)
+Write a program in Java to display the pattern like right angle triangle with a number. Go to the editor
+
+Test Data
+Input number of rows : 10
+Expected Output :
+
+1                                                                                
+12                                                                               
+123                                                                              
+1234                                                                             
+12345                                                                            
+123456                                                                           
+1234567                                                                          
+12345678                                                                         
+123456789                                                                        
+12345678910

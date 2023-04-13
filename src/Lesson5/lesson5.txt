@@ -1,0 +1,20 @@
+1.Massivde tekrarlanan elementleri ekrana cap edin.
+ meselen: {3.-56,2,3,0}  netice : 3
+2.Massivde yerlesen ededleri cemlemek
+{ 5,7,9,12,3,8}-> 5+7 +9+12+3+8 ->44
+3. Massivdeki en boyuk ve en kiciyi cap etmek
+ {5,3,2,9,10}  -> 10 ve 2 
+4) Massivde cut eddedleri cap etmek
+{24,15,4,85,69} cap 24,4
+
+5) Ededin reqemlerini cemleyen funksiya yazmaq
+meselen 25 cap edilin 2+5 yeni 7
+
+6) Massivin uzunlugunu 2 qat artiraraq edeleri tekrar yazmaq
+Meselen {2,5,8} massivi verilibse {2,5,8,2,5,8} seklinde ekrana cap etmek
+
+7.Verilen ilin ayina gore fesli ekrana cap edin(meselen input 4, output YAZ)
+8) Verilen 3 reqemli ededin 1 ci ve 3cu reqemlernin yerini deyisib ekrana cap edin (meselen: 863 daxil edildikde, ekrana 368 yazilmalidir)
+
+9) Telebenin qiymeti verilir , buna esasen derecesini ekrana yazin( meselen input: 85 ,output: B)
+10) OOP nedir ve 4 esas qaydasi nedir

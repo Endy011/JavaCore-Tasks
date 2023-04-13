@@ -1,0 +1,33 @@
+1) Scanner vasitəsilə 3 ədəd daxil edin və ən böyük ədədi çap edin.
+Məsələn  5 8 32  cap ediləcək 32
+
+2) Scanner vasitəsi ilə 1-dən 12-ye qeder hər hansi 1 eded daxil ede bilersiniz ve bu ededlere uygun Switch case ilə ayin adlarini çap edin. Eger 1-den kicik ve ya 12den boyuk eded daxil edilerse "Ededi duzgun daxil edin"
+yazisi ekrana cap edilecek. 
+Məsələn 1 daxil edilərsə ekrana January
+2 daxil edilərsə Febuary cap edilecek
+
+3) Scanner vasitəsilə 3 ədəd daxil edin və bu ededlerin ededi ortasini çap edin.
+Məsələn  5 8 5 cap ediləcək eded 6
+
+4) Scanner ilə 2 ədəd daxil edin. 
+Əgər daxil edilen hər iki ədəd müsbətdirsə "Hər iki ədəd müsbətdir". 
+
+Əgər daxil edilen hər hansida biri müsbətdirsə "Ədədlərdən biri müsbətdir". 
+Əgər daxil edilen hər iki ədəd müsbət deyilsə "Hər iki ədəd müsbət deyil".  cap edilsin
+
+5) https://leetcode.com/problems/divide-two-integers/
+6) https://leetcode.com/problems/palindrome-number/
+7) https://leetcode.com/problems/smallest-even-multiple/
+
+
+8) Array
+https://www.w3schools.com/java/java_arrays.asp
+https://www.geeksforgeeks.org/arrays-in-java/
+
+9)For ve while dövr operatorlarini oxuyun 
+https://www.w3schools.com/java/java_for_loop.asp 
+https://www.w3schools.com/java/java_while_loop.asp
+
+
+10) Bookdan 105-den 120
+
